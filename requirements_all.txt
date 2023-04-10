@@ -1378,6 +1378,9 @@ plumlightpad==0.0.11
 # homeassistant.components.serial_pm
 pmsensor==0.4
 
+# homeassistant.components.poolcop
+poolcop==0.0.1
+
 # homeassistant.components.poolsense
 poolsense==0.0.8
 
